@@ -5,8 +5,6 @@
 - [Technologies/Libraries Used]
 - [Components]
 - [Plugins/dependencies]
-- [Installation]
-- [Feedback and Contributions]
 
 ## Introduction
 This app is created for the task given by Terribly Tiny Tales for the recruitment process for the role of Frontend Developer intern.
@@ -60,14 +58,5 @@ This app is created for the task given by Terribly Tiny Tales for the recruitmen
 - **react-router-dom@6.18.0**: React bindings for routing.
 - **react@18.2.0**: Core React library.
 - **react-scripts@5.0.1**: React scripts for development.
-
-## Installation
-To run this portfolio locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/Benju2205/New-Portfolio.git`
-2. Navigate to the project directory: `cd profile-screen`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
 
 
